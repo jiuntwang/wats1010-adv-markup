@@ -1,1 +1,21 @@
 /* Styles for the Advanced Markup assignment. */
+nav ul li {
+    display: inline;
+}
+a.active {
+    font-weight: bold;
+}
+#sidebar {
+    width: 250px;
+    float: right;
+    background: lavender;
+    margin: 20px;
+    padding: 20px;  
+}
+ul.poem {
+    list-style-type: none;
+}
+p.bio-photo img {
+    float: left;
+    margin: 20px;
+}
