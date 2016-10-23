@@ -19,3 +19,16 @@ p.bio-photo img {
     float: left;
     margin: 20px;
 }
+table  {
+    border-collapse: collapse;
+    width: 35%;
+}
+table, th, td  {
+    border: 1px solid black;
+}
+th, td  {
+    height: 25px;
+}
+td  {
+    text-align: center;
+}
